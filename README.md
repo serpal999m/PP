@@ -1,7 +1,10 @@
 # PP |  Personal Pen
+
 Personal Pen for python 3 tkinter.
-#     *Helper Only*
+      
+      
+          *Helper Only*
 
 
-
-# *in build*(yet)
+For use this function you have to run this command in cmd:
+ pip install tkinter
