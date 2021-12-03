@@ -8,9 +8,8 @@ Personal Pen for python 3 tkinter.
 For use this function you have to run some commands in cmd:
 
 
-  pip install tkinter
+     pip install tkinter
   
-  pip install perpen
+     pip install perpen
 
-  exit
-
+     exit
