@@ -16,7 +16,7 @@ For use this function you have to run some commands in cmd:
      
 Then in your python commands:
      
-     from perpen import perp
-     from perpen import yon
+     from pp import perp
+     from pp import yon
     or
-     import perpen
+     import pp
