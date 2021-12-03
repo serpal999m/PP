@@ -13,3 +13,10 @@ For use this function you have to run some commands in cmd:
      pip install perpen
 
      exit
+     
+Then in your python commands:
+     
+     from perpen import perp
+     from perpen import yon
+    or
+     import perpen
